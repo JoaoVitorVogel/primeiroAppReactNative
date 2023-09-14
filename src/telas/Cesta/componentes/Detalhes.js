@@ -42,7 +42,7 @@ const estilos = StyleSheet.create({
         marginLeft: 12,
     },
     desricao: {
-        color: "A3A3A3",
+        color: "#A3A3A3",
         fontSize: 16,
         lineHeight: 26,
     },
